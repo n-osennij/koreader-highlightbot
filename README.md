@@ -5,8 +5,9 @@ Perfect for archiving, sharing, or syncing reading notes from your Kindle or oth
 ## ✨ Features
 
 - One-tap sending of selected highlights
-- Shows book title, chapter, page number, and timestamp
+- Shows book title, author, date
 - Works directly from KOReader's highlight menu
+- Save selected text automaticly as highlight
 
 ---
 ## 📷 Demo
